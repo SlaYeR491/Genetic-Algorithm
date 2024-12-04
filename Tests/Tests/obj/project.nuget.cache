@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6Th5M/52Kw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SlaYeR\\source\\repos\\Tests\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SlaYeR\\.nuget\\packages\\identitymodel\\7.0.0\\identitymodel.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
+}

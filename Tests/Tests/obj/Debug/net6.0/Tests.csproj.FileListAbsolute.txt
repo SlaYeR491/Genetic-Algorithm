@@ -1,0 +1,17 @@
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\Tests.exe
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\Tests.deps.json
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\Tests.dll
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\Tests.pdb
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.dll
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\refint\Tests.dll
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.pdb
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\ref\Tests.dll
+C:\Users\SlaYeR\source\repos\Tests\Tests\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\Users\SlaYeR\source\repos\Tests\Tests\obj\Debug\net6.0\Tests.csproj.Up2Date
